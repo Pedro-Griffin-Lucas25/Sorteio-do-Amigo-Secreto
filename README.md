@@ -27,11 +27,13 @@ Passo a passo:
 # 🛠️ Abrir e rodar o projeto
 
 **Utilize o VScode**
+
 **Baixe o projeto e abra no VScode (Se for zip terá que extrai-lo antes)**
+
 **Clique em Ok e sinta-se a vontade**
 
-**Autor**
+# :man: **Autor**
 
-**Pedro Lucas De O.Lima**
+# :smiley_cat: **Pedro Lucas De O.Lima**
 ![Foto do Autor](https://github.com/user-attachments/assets/16e56f55-3251-4173-8ace-621aa930115f)
 | :---: |
